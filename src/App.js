@@ -25,8 +25,8 @@ function App() {
     <Spacer></Spacer>
 
 <HStack spacing='10'>
-    <Text fontWeight="semibold"> 1. Work </Text>
     <Text fontWeight="semibold"> 2. About </Text>
+    <Text fontWeight="semibold"> 2. Projects </Text>
     <Text fontWeight="semibold"> 3. Contact</Text>
     </HStack>
   <IconButton ml={8} icon= {isDark ?  <FaSun /> : <FaMoon />} isRound="true" 
