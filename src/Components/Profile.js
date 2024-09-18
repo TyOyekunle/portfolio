@@ -32,7 +32,7 @@ const Profile = () => {
    <Flex  rounded="xl" direction="row" mt={4} bg="blue.400" h={isNotSmallerScreen ? "10vh" : "50vh"}   justify="flex-end">
      
 <Box>
-   <center><Text color="white"  fontSize="l" fontWeight="normal">  Title: AgriVista Website </Text></center>
+   <center><Text color="white"  fontSize="l" fontWeight="normal">  Title: Crypto Tracker </Text></center>
 
    <center> <Text mt={4} color="white"  fontSize="small" fontWeight="normal"> 
     This simple cryptocurrency tracker app allows users to monitor the prices and trends of various cryptocurrencies in real-time. 
@@ -40,7 +40,7 @@ const Profile = () => {
     
     <center><Button mt={5} mb={2} ml={10} colorScheme='blue' _hover= {{background: 'red'}}  
     _focus={{background: 'yellow'}} 
-    onClick={() => window.open("https://github.com/TyOyekunle")} >
+    onClick={() => window.open("https://tyoyekunle.github.io/Crypto-Tracker-App/")} >
        View project </Button></center>
        </Box>
     </Flex>
@@ -58,7 +58,7 @@ const Profile = () => {
 
    <center><Button mt={5} mb={2} ml={10} colorScheme='blue' _hover= {{background: 'red'}}  
     _focus={{background: 'yellow'}} 
-    onClick={() => window.open("https://github.com/TyOyekunle")} >
+    onClick={() => window.open("https://tyoyekunle.github.io/AgriVista-Farm-website/")} >
        View project </Button> </center> 
     </Box>
    
@@ -75,7 +75,7 @@ const Profile = () => {
      
   <center> <Button mt={5} mb={2} ml={10} colorScheme='blue' _hover= {{background: 'red'}}  
     _focus={{background: 'yellow'}} 
-    onClick={() => window.open("https://github.com/TyOyekunle")} >
+    onClick={() => window.open("https://tyoyekunle.github.io/Easy-Health-Website-87-/")} >
        View project </Button></center> 
     </Box>
     </Flex>
@@ -92,7 +92,7 @@ const Profile = () => {
 
     <center><Button mt={5} mb={2} ml={10} colorScheme='blue' _hover= {{background: 'red'}}  
     _focus={{background: 'yellow'}} 
-    onClick={() => window.open("https://github.com/TyOyekunle")} >
+    onClick={() => window.open("https://tyoyekunle.github.io/Quote-App/")} >
        View project </Button></center>
     </Box>
    
